@@ -32,8 +32,10 @@
 16.ソース管理の横にある✔を押下<br>
  ↓<br>
 17.左下の！の数字を押す<br>
- ↓
-18.するとGitHubにpullRequestが表示される。文言を入れる。
- ↓
-19.さらにmergeRequestがでるので押下するとCommit表示がでるので押下
+ ↓<br>
+18.するとGitHubにpullRequestが表示される。文言を入れる。<br>
+ ↓<br>
+19.さらにmergeRequestがでるので押下するとCommit表示がでるので押下<br>
+ ↓<br>
+20.Commit完了　DeleteBranch押して終了<br>
  
