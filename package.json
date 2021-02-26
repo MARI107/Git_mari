@@ -1,0 +1,22 @@
+{
+	"name": "git_mari-1",
+	"version": "1.0.0",
+	"description": "【gitの使い方メモ】<br>\r 1.vscodeを開く(GitHubも開いた状態にする）<br>\r 2.左のエクスプローラを開き<br>\r  ↓<br>\r 3.リポジトリクローンする<br>\r  ↓<br>\r 4.リポジトリしたい(ダウンロードしたいファイル） URLを貼り付ける（GitHubのCodeから右のほうにあるCodeの緑色のボタンを押下するとURLがコピーできる）<br>\r  ↓<br>\r 5.保存先を聞かれるので好きな場所に保存する<br>\r  ↓<br>\r 6.すぐに右下のところからはいを押す画面がでてくるので押下<br>\r  ↓<br>\r 7.するとコピーしたいファイルが現れる<br>\r  ↓<br>\r 9.【ブランチをきる。】左下の mainを押すと上に分岐がでてくる。＋新しい分岐の作成を選ぶ→好きな名前を入力<br>\r   左下のブランチの横の雲（Push）を押すとGitHubにBranchができる。\r  ↓<br>\r 10.左下の名前が入力した名前に変わる。<br>\r  ↓<br>\r 11. ファイルを変更してみる（HTMLに文章を追加でOK）そして保存。<br>\r  ↓<br>\r 12.変更が完了するとサイドバーのソース管理に数字が出る（変更したファイルごとに数字が表れる）<br>\r  ↓<br>\r 13.ソース管理のところを開くと先ほど編集したHTMLファイルが出てきます。<br>\r  ↓<br>\r 14.変更に入っているファイルのところに＋があるので押下すると変更のステージが上がります。するとMが右端にでてきます。<br>\r  ↓<br>\r 15.メッセージを入力（○○を変更しました。等）<br>\r  ↓<br>\r 16.ソース管理の横にある✔を押下<br>\r  ↓<br>\r 17.左下の！の数字を押す<br>\r  ↓<br>\r 18.するとGitHubにpullRequestが表示される。文言を入れる。<br>\r  ↓<br>\r 19.さらにmergeRequestがでるので押下するとCommit表示がでるので押下<br>\r  ↓<br>\r 20.Commit完了　DeleteBranch押して終了<br>",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MARI107/Git_mari.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MARI107/Git_mari/issues"
+	},
+	"homepage": "https://github.com/MARI107/Git_mari#readme",
+	"dependencies": {
+		"react": "^17.0.1"
+	}
+}
